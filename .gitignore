@@ -1,0 +1,13 @@
+data/*
+!data/complaints-2021-05-14_08_16.json
+.env
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production
